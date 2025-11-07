@@ -1,5 +1,19 @@
-## Hi there 👋
+# FastGS
 
+<div align="center">
+
+**Training 3D Gaussian Splatting in 100 Seconds**
+
+[🌐 Homepage](https://fastgs.github.io/) | [📄 Paper](https://arxiv.org/abs/2511.04283)
+
+</div>
+
+## 📣 News
+
+### 📢 Current Status:
+- **TODO**: 
+  1. [2025.11.30] Open-sourced executable (code to be released before Nov 30, 2025)
+  
 <!--
 **fastgs/FastGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
